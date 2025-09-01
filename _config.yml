@@ -8,7 +8,9 @@ url: "https://ahnmyunghyun.com"
 permalink: pretty
 
 aux_links:
-  Podcast: https://www.youtube.com/@suddenly-ajussi-podcast
+  "Podcast":
+    - "https://www.youtube.com/@suddenly-ajussi-podcast"
+    - new_tab: true
 
 just_the_docs:
   navigation_depth: 2

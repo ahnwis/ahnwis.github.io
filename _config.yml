@@ -16,7 +16,6 @@ defaults:
 
 aux_links:
   Podcast: https://www.youtube.com/@suddenly-ajussi-podcast
-aux_links_new_tab: true
 
 
 exclude:

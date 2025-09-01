@@ -7,6 +7,13 @@ url: "https://ahnmyunghyun.com"
 
 permalink: pretty
 
+defaults:
+  - scope:
+      path: "docs"   # docs 폴더 안쪽을 기본 경로로 지정
+      type: "pages"
+    values:
+      layout: "default"
+
 aux_links:
   "Podcast":
     - "https://www.youtube.com/@suddenly-ajussi-podcast"
@@ -20,3 +27,4 @@ exclude:
   - Gemfile.lock
   - node_modules/
   - vendor/
+

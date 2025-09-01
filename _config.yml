@@ -1,8 +1,20 @@
-title: Myunghyun Ahn
-description: Who AM I?
-remote_theme: just-the-docs/just-the-docs
+title: "Myunghyun Ahn"
+description: "Who AM I?"
 
-url: https://ahnwis.github.io
+# 테마 설정
+remote_theme: just-the-docs/just-the-docs
+url: "https://ahnmyunghyun.com
+
+permalink: pretty
 
 aux_links:
   Podcast: https://www.youtube.com/@suddenly-ajussi-podcast
+
+just_the_docs:
+  navigation_depth: 2
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/

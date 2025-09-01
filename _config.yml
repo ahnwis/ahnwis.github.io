@@ -28,3 +28,5 @@ exclude:
   - node_modules/
   - vendor/
 
+just_the_docs:
+  footer_content: "© 2025 Myunghyun Ahn. All rights reserved."

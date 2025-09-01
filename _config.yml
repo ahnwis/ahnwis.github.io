@@ -15,12 +15,9 @@ defaults:
       layout: "default"
 
 aux_links:
-  "Podcast":
-    - "https://www.youtube.com/@suddenly-ajussi-podcast"
-    - new_tab: true
+  Podcast: https://www.youtube.com/@suddenly-ajussi-podcast
+aux_links_new_tab: true
 
-just_the_docs:
-  navigation_depth: 2
 
 exclude:
   - Gemfile
@@ -28,5 +25,4 @@ exclude:
   - node_modules/
   - vendor/
 
-just_the_docs:
-  footer_content: "© 2025 Myunghyun Ahn. All rights reserved."
+footer_content: "© 2025 Myunghyun Ahn. All rights reserved."

@@ -17,4 +17,4 @@ U.S. 501st Military Intelligence Brigade, Seoul
 Unit operation funds and personnel administration, driver
 
 **미육군 감사장 수상** (February 2011)  
-**U.S. Army Commendation Medal**
+**U.S. Army Commendation Medal** 

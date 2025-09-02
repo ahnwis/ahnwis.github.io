@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "My Setup 2025"
+parent: Trivia
 nav_order: 1
 ---
 

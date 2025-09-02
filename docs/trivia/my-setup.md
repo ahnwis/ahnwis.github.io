@@ -5,4 +5,26 @@ parent: Trivia
 nav_order: 1
 ---
 
-# 내가 쓰는 것들 (My Setup)
+# My Setup 2025
+## Hardware
+
+**💻 MacBook Pro 14" (2021)**  
+M1 Pro • 16GB RAM • 1TB SSD
+
+**📱 iPhone 15 Pro**  
+256GB Black Titanium • Almost the first purchase in South Korea (bought in Bangkok)
+
+**⌚ Apple Watch Ultra 2**  
+24-month interest-free installment
+
+**🖥️ iPad Pro 12.9" M1**  
+2TB + Magic Keyboard + Apple Pencil • Mainly used as Sidecar
+
+**🎧 AirPods Pro (2nd Gen)**  
+My second pair (lost the first one)
+
+**🎵 Bose QuietComfort 45**  
+White Smoke • Mostly for gaming
+
+**🎮 PlayStation 5 Slim**  
+Gaming console

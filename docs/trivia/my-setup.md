@@ -9,7 +9,7 @@ nav_order: 1
 ## Hardware
 
 **💻 MacBook Pro 14" (2021)**  
-M1 Pro • 16GB RAM • 1TB SSD
+M1 Pro • 16GB RAM • 1TB SSD • Bought secondhand in '23
 
 **📱 iPhone 15 Pro**  
 256GB Black Titanium • Almost the first purchase in South Korea (bought in Bangkok)

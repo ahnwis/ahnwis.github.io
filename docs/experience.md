@@ -30,8 +30,3 @@ Blockchain market research (Freelance)
 2015  
 수능 간식 '페이스메이커' 개발 및 판매  
 Developed and sold 'Pacemaker', chocolate for students taking university entrance exams
-
-**카투사 (KATUSA)**  
-2009 - 2011  
-부대운영비 및 인사 관리, 미육군 감사장 수상  
-Unit operation funds and personnel administration, awarded U.S. Army Commendation Medal

@@ -10,10 +10,10 @@ nav_order: 2
 
 | 기간        | 학위 / 과정                                | 학교                         | 세부 내용 |
 |-------------|-------------------------------------------|------------------------------|-----------|
-| 2017–2019   | 석사 과정 수료, 세계경제학                 | 푸단대학교(중국)                   | GPA: 3.06/4.0<br>글로벌화와 중국경제 전공 (영어 과정) |
-| 2016–2017   | 1년 중국어 연수 과정                       | 저장대학교(중국)                   |           |
-| 2015–2016   | 글로벌 창업학 석사(M.S.)                   | 퍼듀대학교(미국)    | GPA: 3.59/4.0<br>프랑스 emlyon 경영대학, 중국 저장대, 미국 퍼듀대 공동 프로그램 |
-| 2008–2014   | 철학 / 영어커뮤니케이션 학사               | 한양대학교(한국)                   | GPA: 3.22/4.0 |
+| 2017–2019   | 석사 과정 수료, 세계경제학                 | 푸단대학교 (중국)                   | GPA: 3.06/4.0<br>글로벌화와 중국경제 전공 (영어 과정) |
+| 2016–2017   | 1년 중국어 연수 과정                       | 저장대학교 (중국)                   |           |
+| 2015–2016   | 글로벌 창업학 석사(M.S.)                   | 퍼듀대학교 (미국)    | GPA: 3.59/4.0<br>프랑스 emlyon 경영대학, 중국 저장대, 미국 퍼듀대 공동 프로그램 |
+| 2008–2014   | 철학 / 영어커뮤니케이션 학사               | 한양대학교 (한국)                   | GPA: 3.22/4.0 |
 
 ## English
 
@@ -22,7 +22,7 @@ At present, I am preparing to enter a PhD program in anthropology.
 
 | Years       | Degree / Program                          | Institution                        | Details                                  |
 |-------------|-------------------------------------------|------------------------------------|------------------------------------------|
-| 2017–2019   | Master’s Coursework, World Economics      | Fudan University(China)                   | GPA: 3.06/4.0<br>Specialized in Globalization and Chinese Economy (English) |
-| 2016–2017   | 1-Year Chinese Language Program           | Zhejiang University(China)                |                                          |
-| 2015–2016   | M.S. in Global Entrepreneurship Program   | Purdue University(USA)  | GPA: 3.59/4.0<br>with emlyon Business School (France), Zhejiang University (China) |
-| 2008–2014   | B.A. in Philosophy / English Communication | Hanyang University(Korea)                 | GPA: 3.22/4.0 |
+| 2017–2019   | Master’s Coursework, World Economics      | Fudan University (China)                   | GPA: 3.06/4.0<br>Specialized in Globalization and Chinese Economy (in English) |
+| 2016–2017   | 1-Year Chinese Language Program           | Zhejiang University (China)                |                                          |
+| 2015–2016   | M.S. in Global Entrepreneurship Program   | Purdue University (USA)  | GPA: 3.59/4.0<br>with emlyon Business School (France), Zhejiang University (China) |
+| 2008–2014   | B.A. in Philosophy / English Communication | Hanyang University (Korea)                 | GPA: 3.22/4.0 |

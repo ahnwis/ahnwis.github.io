@@ -1,5 +1,5 @@
 ---
-title: Education 학력
+title: Education
 nav_order: 2
 ---
 ## English

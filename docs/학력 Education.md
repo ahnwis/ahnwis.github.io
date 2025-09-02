@@ -5,8 +5,7 @@ nav_order: 2
 ---
 ## Korean
 
-저는 다양한 전공으로 학교를 꽤 많이 다녔습니다.  
-새로운 걸 배우는 걸 좋아합니다.  
+저는 다양한 전공으로 다양한 국가의 학교를 다녔습니다.  
 현재는 인류학 박사과정에 진학하려고 준비 중입니다.  
 
 | 기간        | 학위 / 과정                                | 학교                         | 세부 내용 |
@@ -18,8 +17,7 @@ nav_order: 2
 
 ## English
 
-I have studied in several different fields at various schools.
-I enjoy exploring and learning new things.
+I have studied various subjects at universities in different countries.  
 At present, I am preparing to enter a PhD program in anthropology.
 
 | Years       | Degree / Program                          | Institution                        | Details                                  |

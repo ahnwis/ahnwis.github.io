@@ -16,8 +16,6 @@ Spring 2013 & Spring 2012
 
 **미육군 감사장 U.S. Army Commendation Medal**  
 February 2011  
-카투사 복무 중 모범 근무로 수여  
-Awarded for exceptional service during KATUSA service
 
 **한양대학교 봉사 장학금 Hanyang University Volunteer Scholarship**  
 Spring 2009

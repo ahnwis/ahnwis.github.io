@@ -2,7 +2,7 @@
 layout: default
 title: "Countries I've Been To"
 parent: Trivia
-nav_order: 3
+nav_order: 2
 ---
 
 # Countries I've Been To

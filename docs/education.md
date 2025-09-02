@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 학력 Education
 nav_order: 2
 ---

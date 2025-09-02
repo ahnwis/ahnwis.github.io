@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Awards & Scholarships
+title: Awards & Scholarships 
 nav_order: 6
 ---
 

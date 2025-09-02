@@ -27,4 +27,4 @@ My second pair (lost the first one)
 White Smoke • Mostly for gaming
 
 **🎮 PlayStation 5 Slim**  
-Gaming console
+GTA 6 release: May 26, 2026

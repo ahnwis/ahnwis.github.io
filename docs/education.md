@@ -1,5 +1,5 @@
 ---
-title: 학력 Education
+title: Education 학력
 nav_order: 2
 ---
 ## Korean

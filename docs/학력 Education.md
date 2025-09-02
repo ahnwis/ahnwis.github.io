@@ -4,6 +4,7 @@ title: 학력 Education
 nav_order: 2
 ---
 ## Korean
+
 저는 다양한 전공으로 학교를 꽤 많이 다녔습니다.  
 새로운 걸 배우는 걸 좋아합니다.  
 현재는 인류학 박사과정에 진학하려고 준비 중입니다.  
@@ -16,10 +17,11 @@ nav_order: 2
 | 2008–2014   | 철학 / 영어커뮤니케이션 학사               | 한양대학교                   | GPA: 3.22/4.0 |
 
 ## English
+
 I have studied in several different fields at various schools.
 I enjoy exploring and learning new things.
 At present, I am preparing to enter a PhD program in anthropology.
----
+
 | Years       | Degree / Program                          | Institution                        | Details                                  |
 |-------------|-------------------------------------------|------------------------------------|------------------------------------------|
 | 2017–2019   | Master’s Coursework, World Economics      | Fudan University                   | GPA: 3.06/4.0<br>Specialized in Globalization and Chinese Economy (English) |

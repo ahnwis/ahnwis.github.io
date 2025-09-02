@@ -2,7 +2,7 @@
 layout: default
 title: 학력 Education
 nav_order: 2
-
+---
 ## Korean
 저는 다양한 전공으로 학교를 꽤 많이 다녔습니다.  
 새로운 걸 배우는 걸 좋아합니다.  

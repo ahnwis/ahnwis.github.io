@@ -2,8 +2,6 @@
 title: Education
 nav_order: 2
 ---
-## English
-
 I have studied various subjects at universities in different countries.  
 At present, I am preparing to enter a PhD program in anthropology.  
 저는 다양한 전공으로 다양한 국가의 학교를 다녔습니다.  

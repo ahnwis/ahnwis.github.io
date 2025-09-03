@@ -15,8 +15,8 @@ At present, I am preparing to enter a PhD program in anthropology.
 | 2008–2014   | B.A. in Philosophy / English Communication | Hanyang University<br>(Seoul, Korea)                 | GPA: 3.22/4.0 |
 
 ---
-#### Why I Only Completed My Master's in China
-#### 중국 대학원을 수료만 한 이유(한국어 하단)
+### Why I Only Completed My Master's in China
+### 중국 대학원을 수료만 한 이유(한국어 하단)
 
 During my Global Entrepreneurship Program, where I studied across three countries, I completely fell in love with the city of Hangzhou. So after graduation, I did a one-year language program there. After the language program, I became even more fascinated with China. Every day in China was like a dopamine rush - I was intoxicated by constantly seeing and experiencing new things. I wanted to stay in China longer and was looking for ways to do so. I didn't want to continue with more language studies, so it came down to either finding a job or pursuing graduate studies.
 

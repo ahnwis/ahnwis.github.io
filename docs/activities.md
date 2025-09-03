@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities & Leadership
+title: Activities
 nav_order: 5
 ---
 **techNeedle - 테크 뉴스 기고 Tech News Contributor**  

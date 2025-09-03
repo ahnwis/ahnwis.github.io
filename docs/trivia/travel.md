@@ -4,7 +4,6 @@ title: "Countries I've Been To"
 parent: Trivia
 nav_order: 2
 ---
-
 **Study Abroad 유학**  
 🇨🇳 중국 China (4년 거주 - 저장대, 푸단대, 상하이 인턴십)  
 🇫🇷 프랑스 France (4개월 - emlyon 경영대학)  

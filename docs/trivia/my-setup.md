@@ -5,7 +5,6 @@ parent: Trivia
 nav_order: 1
 ---
 
-# My Setup 2025
 ## Hardware
 
 **💻 MacBook Pro 14" (2021)**  

@@ -3,9 +3,6 @@ layout: default
 title: Languages
 nav_order: 7
 ---
-
-# Languages
-
 **한국어 Korean**  
 모국어 Native
 

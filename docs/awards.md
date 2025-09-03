@@ -3,9 +3,6 @@ layout: default
 title: Awards & Scholarships 
 nav_order: 6
 ---
-
-# Awards & Scholarships
-
 **상하이 정부 장학금 A타입 Shanghai Government Scholarship, Class A**  
 2017 - 2019  
 전액 장학금 (학비, 의료보험, 주거, 생활비)  

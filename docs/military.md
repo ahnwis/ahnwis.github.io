@@ -3,9 +3,6 @@ layout: default
 title: Military Service
 nav_order: 4
 ---
-
-# Military Service
-
 **카투사 (KATUSA) - 만기 제대**  
 **Korean Augmentation To the United States Army**  
 2009 - 2011

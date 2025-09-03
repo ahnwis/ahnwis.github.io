@@ -3,9 +3,6 @@ layout: default
 title: Activities & Leadership
 nav_order: 5
 ---
-
-# Activities & Leadership
-
 **techNeedle - 테크 뉴스 기고 Tech News Contributor**  
 2015 - 2016  
 테크, 정책, 실리콘밸리 관련 기사 39건 기고  

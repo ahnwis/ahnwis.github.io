@@ -3,9 +3,6 @@ layout: default
 title: Experience
 nav_order: 3
 ---
-
-# Experience
-
 **모두싸인 (Modusign) - 영업 지원 매니저 Sales Administration Manager**  
 December 2024 - March 2025  
 요금제 생성 및 관리, 거래처 정산, 고객 CS  

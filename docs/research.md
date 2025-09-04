@@ -5,7 +5,7 @@ nav_order: 8
 ---
 ### I'm not a professional researcher yet, but a person who is trying to become one. My research will focus on the following:  
 
-My current research focus is on what I describe as South Korea’s collective existential crisis. South Korea now faces the world’s lowest fertility rate (0.68), among the highest suicide rates, and rapidly rising rates of non-marriage. I approach these phenomena with the hypothesis that humans tend to explain the unexplainable through illusion, and that the self itself is a mediated illusion constructed from selective memory. This has led me to argue that people imitate and pursue illusions, often making choices that seem irrational from the outside but are deeply structured by cultural and existential pressures.  
+My current research focus is on what I describe as South Korea’s *collective existential crisis*. South Korea now faces the world’s lowest fertility rate (0.68), among the highest suicide rates, and rapidly rising rates of non-marriage. I approach these phenomena with the hypothesis that *humans tend to explain the unexplainable through illusion*, and that the self itself is a mediated illusion constructed from selective memory. This has led me to argue that people imitate and pursue illusions, often making choices that seem irrational from the outside but are deeply structured by cultural and existential pressures.  
 
 ### 저는 아직 연구자는 아니고 연구자가 되려는 시도를 해보고 있습니다. 제 연구의 방향은 다음과 같습니다.  
 

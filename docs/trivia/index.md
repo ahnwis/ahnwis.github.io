@@ -1,6 +1,6 @@
 ---
 title: Trivia
-nav_order: 8
+nav_order: 20
 ---
 
 # Trivia

@@ -24,4 +24,4 @@ exclude:
   - node_modules/
   - vendor/
 
-footer_content: ""
+footer_content: "© 2026 Myunghyun Ahn. All rights reserved."

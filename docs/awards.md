@@ -4,7 +4,7 @@ title: Awards & Scholarships
 nav_order: 6
 ---
 **Texas A&M University — PhD Fellowship**  
-*2025–2029*  
+*2026–2030*  
 Full funding including tuition waiver and annual stipend ($22,500)
 
 **Shanghai Government Scholarship, Class A**  
